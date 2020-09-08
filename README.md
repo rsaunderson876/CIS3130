@@ -1,2 +1,1 @@
-# CIS-3130
-
+Lab 1- Intro to gitHub exercise
